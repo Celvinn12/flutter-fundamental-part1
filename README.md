@@ -12,7 +12,7 @@ A new Flutter project.
 ![screenshoot hello_word](images\images4.png),
 ![screenshoot hello_word](images\images5.png),
 ![screenshoot hello_word](images\images6.png),
-![screenshoot hello_word](images\images7.png),
+![screenshoot hello_word](images\images7.png)
 
 
 ## Getting Started
