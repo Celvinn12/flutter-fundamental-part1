@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+Nama : Celvin Alfiansyah
+NIM : 362358302104
+Kelas : 2D
+
 ![screenshoot hello_word](images\images1.png),
 ![screenshoot hello_word](images\images2.png),
 ![screenshoot hello_word](images\images3.png),
@@ -9,6 +13,7 @@ A new Flutter project.
 ![screenshoot hello_word](images\images5.png),
 ![screenshoot hello_word](images\images6.png),
 ![screenshoot hello_word](images\images7.png),
+
 
 ## Getting Started
 
