@@ -6,7 +6,7 @@ A new Flutter project.
 # NIM : 362358302104
 # Kelas : 2D
 
-![screenshoot hello_word](assets\images1.png)
+![screenshoot](assets\images1.png)
 
 ![screenshoot hello_word](assets\images2.png)
 
